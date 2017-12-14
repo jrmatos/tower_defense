@@ -136,8 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a5e0fd8f3b134f0398d0530cc0e1d0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  torrePrefab: {fileID: 1582959781299826, guid: c699e26a06cc6450e84b0dddb581ddc2,
-    type: 2}
+  torrePrefab: {fileID: 165880, guid: f4f6b630159e6b34386dec2579f250b2, type: 2}
   gameOver: {fileID: 1008747598}
   jogador: {fileID: 1268711932}
 --- !u!4 &112494000

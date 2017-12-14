@@ -22,7 +22,7 @@ public class GeradorDeInimigos : MonoBehaviour
 		{
 			momentoDaUltimaGeracao = tempoAtual;
 			Vector3 posicaoDoGerador = this.transform.position;
-			Instantiate(inimigo, posicaoDoGerador, Quaternion.identity);
+			Instantiate(inimigo, posicaoDoGerador, new Quaternion(0,180,0,0));
 		}
 	}
 }
